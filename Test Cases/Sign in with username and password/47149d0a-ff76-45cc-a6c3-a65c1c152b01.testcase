@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "The sign-in form has what the app's has, its parked links gray",
+  "expectedResult" : "Username, password, Sign in, the version; Register new project and Forgot your password disabled",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "#161 R2, R14",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "The right password opens the shell, its parts arriving",
+  "expectedResult" : "The side menu, the tabs, the name and Sign out appear; the frame stays",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "#161 R1, R6",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

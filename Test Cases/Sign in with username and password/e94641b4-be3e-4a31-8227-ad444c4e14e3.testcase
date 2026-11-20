@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "The fifth wrong password in a row locks the account",
+  "expectedResult" : "The right password then is refused with the lock's words",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "AC-01.2",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

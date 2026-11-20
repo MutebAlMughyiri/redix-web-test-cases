@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Sign out returns to the sign-in form, and a reload stays signed out",
+  "expectedResult" : "The sign-in form shows with no message; the session's cookies are gone",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "#161 R16",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "UC-062",
+  "testData" : "",
+  "preConditions" : ""
+}

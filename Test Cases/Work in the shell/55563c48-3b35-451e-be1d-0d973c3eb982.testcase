@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "The side menu's line drags wider and narrower within its limits",
+  "expectedResult" : "The side menu follows the line, from 180 to 480 pixels",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "#161 R10",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "#161",
+  "testData" : "",
+  "preConditions" : ""
+}

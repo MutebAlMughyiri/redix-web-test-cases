@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "A wrong password is refused with the app's words",
+  "expectedResult" : "The form says the username or password is wrong, and keeps the username",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "#161 R1, AC-01.2",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

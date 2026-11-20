@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "Two new passwords that differ are refused",
+  "expectedResult" : "The form says the new passwords do not match",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "#161 R13",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "UC-003",
+  "testData" : "",
+  "preConditions" : ""
+}

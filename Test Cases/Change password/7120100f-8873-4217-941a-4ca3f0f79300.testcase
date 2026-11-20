@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "The right change opens the shell",
+  "expectedResult" : "The side menu and the tabs arrive; a reload stays signed in",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "AC-02.1, #161 R13",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "UC-003",
+  "testData" : "",
+  "preConditions" : ""
+}

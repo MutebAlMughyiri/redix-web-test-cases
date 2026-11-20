@@ -1,0 +1,17 @@
+{
+  "order" : "t",
+  "description" : "The language is chosen in Settings, not in the top bar",
+  "expectedResult" : "The top bar holds no language; English in Settings turns the page left to right",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "#161 R11",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "#161",
+  "testData" : "",
+  "preConditions" : ""
+}

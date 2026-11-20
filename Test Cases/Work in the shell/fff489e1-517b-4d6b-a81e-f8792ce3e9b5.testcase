@@ -1,0 +1,17 @@
+{
+  "order" : "u",
+  "description" : "The page never scrolls",
+  "expectedResult" : "The shell fits the window; nothing scrolls the page",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "LOW",
+  "reference" : "#161 R8",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
+  "module" : "#161",
+  "testData" : "",
+  "preConditions" : ""
+}
