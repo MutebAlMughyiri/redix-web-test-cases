@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Approvals lists what waits, and a filter narrows it",
+  "expectedResult" : "The two waiting entries are listed, the approved one is not; Contractor payments shows nothing waits",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "AC-18.1, redix-api #167",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 16:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 16:30:00 [Asia/Riyadh]",
+  "module" : "UC-032",
+  "testData" : "",
+  "preConditions" : ""
+}

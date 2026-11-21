@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "Approve selected approves the ticked entry, and it leaves the list",
+  "expectedResult" : "After ticking one and Approve selected, only the other waits",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "FR-19, redix-api #167",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 16:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 16:30:00 [Asia/Riyadh]",
+  "module" : "UC-032",
+  "testData" : "",
+  "preConditions" : ""
+}

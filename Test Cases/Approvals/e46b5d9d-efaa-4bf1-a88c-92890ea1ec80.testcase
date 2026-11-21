@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "Reject with a quick reason sends the entry back, and it leaves Approvals",
+  "expectedResult" : "The panel shows the entry rejected with its reason, and the list no longer holds it",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "AC-19.1, redix-api #167",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 16:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 16:30:00 [Asia/Riyadh]",
+  "module" : "UC-032",
+  "testData" : "",
+  "preConditions" : ""
+}
