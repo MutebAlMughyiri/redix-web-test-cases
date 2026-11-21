@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "The manager approves a waiting entry from the panel, and its row follows",
+  "expectedResult" : "The panel and the row both say approved",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "FR-19, redix-api #166",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 07:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 07:00:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}
