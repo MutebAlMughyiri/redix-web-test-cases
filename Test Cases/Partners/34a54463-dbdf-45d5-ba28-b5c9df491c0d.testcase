@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "The partner history tells a partner added from Partners",
+  "expectedResult" : "After New partner adds Partner B, History lists Partner B being added",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "redix-app #101, redix-api #169",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 23:59:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 23:59:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}
