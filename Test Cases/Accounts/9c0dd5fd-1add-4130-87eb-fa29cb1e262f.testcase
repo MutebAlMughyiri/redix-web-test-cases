@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "New account adds a cash custody held by the manager, under the custodies",
+  "expectedResult" : "Without a custodian it is refused with the app's words; with one it shows in the panel and under the custodies",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-015, redix-api #168",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 19:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 19:10:00 [Asia/Riyadh]",
+  "module" : "UC-015",
+  "testData" : "",
+  "preConditions" : ""
+}
