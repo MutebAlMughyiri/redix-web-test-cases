@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Partners lists the capital and a partner with no login, whose panel says no movements yet",
+  "expectedResult" : "The total reads 0.00; Partner A shows with no login; its panel says there are no movements",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-016, UC-040, redix-api #169",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 22:50:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 22:50:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}
