@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Forgot your password? opens its form in the sign-in's place, and Cancel goes back",
+  "expectedResult" : "The form asks for a username or an email, the cursor in it; Cancel shows the sign-in form again",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "AC-02.6, redix-api #80",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 12:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 12:00:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "Two new passwords that differ are refused",
+  "expectedResult" : "«كلمتا المرور الجديدتان غير متطابقتين.», and the code's fields stay",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "AC-02.6",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 12:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 12:00:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}

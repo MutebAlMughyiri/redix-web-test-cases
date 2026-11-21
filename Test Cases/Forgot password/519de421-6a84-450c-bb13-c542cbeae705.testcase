@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "A login that names nobody is answered as one that does",
+  "expectedResult" : "The same notice and the same fields as for a real account",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "AC-02.7",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 12:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 12:00:00 [Asia/Riyadh]",
+  "module" : "UC-002",
+  "testData" : "",
+  "preConditions" : ""
+}
