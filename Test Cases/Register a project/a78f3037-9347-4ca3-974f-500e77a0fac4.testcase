@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "Signed in, the project menu registers a project the person manages",
+  "expectedResult" : "The form asks no login; after sending it says the project waits for the admin, and the project menu lists it",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-006, redix-api #164",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 17:40:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 17:40:00 [Asia/Riyadh]",
+  "module" : "UC-066",
+  "testData" : "",
+  "preConditions" : ""
+}
