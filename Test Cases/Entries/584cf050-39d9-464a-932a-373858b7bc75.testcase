@@ -1,0 +1,17 @@
+{
+  "order" : "s",
+  "description" : "Add entry says why an amount that is no number cannot be saved, and keeps what was typed",
+  "expectedResult" : "The form says the amount is wrong and the description stays",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-022, redix-api #166",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 08:45:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 08:45:00 [Asia/Riyadh]",
+  "module" : "UC-022",
+  "testData" : "",
+  "preConditions" : ""
+}
