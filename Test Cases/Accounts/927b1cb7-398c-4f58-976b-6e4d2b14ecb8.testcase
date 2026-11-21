@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "Transfer opens once two accounts are active, and refuses more than the account holds",
+  "expectedResult" : "With a second bank account Transfer opens; 100 from an account holding less is refused with the app's words",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "FR-23, redix-api #168",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 19:55:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 19:55:00 [Asia/Riyadh]",
+  "module" : "UC-015",
+  "testData" : "",
+  "preConditions" : ""
+}
