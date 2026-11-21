@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "The account history tells an approved entry and who approved it",
+  "expectedResult" : "History, from Accounts, lists the purchase of 100.00 from Bank, approved by the manager",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "redix-app #89, redix-api #168",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 21:40:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 21:40:00 [Asia/Riyadh]",
+  "module" : "UC-015",
+  "testData" : "",
+  "preConditions" : ""
+}
