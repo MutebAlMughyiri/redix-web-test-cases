@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "New partner adds a partner, and one with no capital is deleted, asked first",
+  "expectedResult" : "Partner B shows in the panel and the list; deleted, the panel says so and the list no longer holds it",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-016, redix-api #169",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 23:20:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 23:20:00 [Asia/Riyadh]",
+  "module" : "UC-016",
+  "testData" : "",
+  "preConditions" : ""
+}
