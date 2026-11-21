@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Suppliers lists the general cash supplier, and New supplier adds one with its VAT number",
+  "expectedResult" : "Supplier B shows in the panel and in Suppliers, its row saying its VAT number",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-017, redix-api #170",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 01:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 01:10:00 [Asia/Riyadh]",
+  "module" : "UC-017",
+  "testData" : "",
+  "preConditions" : ""
+}
