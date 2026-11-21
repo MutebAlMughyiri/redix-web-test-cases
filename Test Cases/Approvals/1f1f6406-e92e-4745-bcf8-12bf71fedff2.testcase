@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "The approval history tells what was approved and by whom",
+  "expectedResult" : "History, from Approvals, lists the approved entry with who approved it",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "redix-api #167",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 17:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 17:00:00 [Asia/Riyadh]",
+  "module" : "UC-032",
+  "testData" : "",
+  "preConditions" : ""
+}
