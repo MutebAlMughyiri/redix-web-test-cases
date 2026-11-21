@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "The search finds an entry by its amount",
+  "expectedResult" : "Typing an amount leaves the entries of that amount",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "UC-028, redix-app #104, redix-api #166",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "The Entries tab lists the project's entries, newest first, with their status",
+  "expectedResult" : "Every entry, the newest at the top, approved and waiting ones marked so",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-028, redix-api #166",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

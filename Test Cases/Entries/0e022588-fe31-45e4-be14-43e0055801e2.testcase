@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "A row opens its entry in the details panel, the arrows move it, and Esc hides it",
+  "expectedResult" : "The panel shows the entry; Down shows the next; Esc hides the panel and the row keeps the focus",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "redix-api #166, the base design",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}
