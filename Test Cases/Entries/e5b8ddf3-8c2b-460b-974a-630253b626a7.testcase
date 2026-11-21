@@ -1,0 +1,17 @@
+{
+  "order" : "u",
+  "description" : "A contract payment shows the contract's value and what remains after it, and warns past the value",
+  "expectedResult" : "Value 1,000.00 and remaining 1,000.00 at first; with 1,200 typed the remaining reads (200.00) and the warning shows",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "BR-07, redix-api #166",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 09:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 09:30:00 [Asia/Riyadh]",
+  "module" : "UC-022",
+  "testData" : "",
+  "preConditions" : ""
+}
