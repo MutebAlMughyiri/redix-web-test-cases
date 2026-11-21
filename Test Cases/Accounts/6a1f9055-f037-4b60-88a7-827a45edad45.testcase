@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Accounts lists the bank account with its balance, and says nothing was counted yet",
+  "expectedResult" : "The Bank row shows under the banks with its balance; the card says no count yet",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-015, redix-api #168",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 18:50:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 18:50:00 [Asia/Riyadh]",
+  "module" : "UC-015",
+  "testData" : "",
+  "preConditions" : ""
+}
