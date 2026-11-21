@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "Hide details folds the summary, and a reload keeps it folded",
+  "expectedResult" : "The summary hidden, the button saying Show details, after a reload too",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "redix-app #91, redix-api #165",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 18:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 18:00:00 [Asia/Riyadh]",
+  "module" : "UC-049",
+  "testData" : "",
+  "preConditions" : ""
+}

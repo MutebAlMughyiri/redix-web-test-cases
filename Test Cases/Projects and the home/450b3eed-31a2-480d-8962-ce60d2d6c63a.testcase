@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "An empty project says it has no entries, and Add entry stands gray",
+  "expectedResult" : "«لا قيود بعد.»; Add entry disabled; the surplus 0.00",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-049, redix-api #165",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 18:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 18:00:00 [Asia/Riyadh]",
+  "module" : "UC-049",
+  "testData" : "",
+  "preConditions" : ""
+}

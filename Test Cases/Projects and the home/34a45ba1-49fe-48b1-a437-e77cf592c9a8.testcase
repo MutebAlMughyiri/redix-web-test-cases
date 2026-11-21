@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "Revenue opens its categories, and opening Expenses closes it",
+  "expectedResult" : "One of Revenue and Expenses open at a time, as the app's tiles",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "UC-049, redix-api #165",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Saturday 21-11-2026 At 18:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Saturday 21-11-2026 At 18:00:00 [Asia/Riyadh]",
+  "module" : "UC-049",
+  "testData" : "",
+  "preConditions" : ""
+}
