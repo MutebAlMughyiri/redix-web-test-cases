@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "Updating the actual balances keeps the count, and Accounts shows its total",
+  "expectedResult" : "With the bank counted at its books balance the difference reads 0.00; saved, Accounts comes back with the actual total",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "FR-24, redix-api #168",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 21:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 21:10:00 [Asia/Riyadh]",
+  "module" : "UC-015",
+  "testData" : "",
+  "preConditions" : ""
+}
