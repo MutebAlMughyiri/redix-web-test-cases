@@ -1,7 +1,7 @@
 {
   "order" : "p",
-  "description" : "The sign-in form has what the app's has, Register new project gray and Forgot your password a link",
-  "expectedResult" : "Username, password, Sign in, the version; Register new project disabled; Forgot your password opens its form",
+  "description" : "The sign-in form has what the app's has, Register new project and Forgot your password links",
+  "expectedResult" : "Username, password, Sign in, the version; Register new project and Forgot your password each open their form",
   "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",

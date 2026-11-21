@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "A registration waits for the admin, and its manager signs in to follow it",
+  "expectedResult" : "The sign-in says it was sent; signed in with the new login, the project shows waiting for approval and does not open",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-066, AC-04.1, redix-api #164",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 05:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 05:30:00 [Asia/Riyadh]",
+  "module" : "UC-066",
+  "testData" : "",
+  "preConditions" : ""
+}

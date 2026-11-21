@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "Units and partners are added one at a time, by Enter or Add, and removed",
+  "expectedResult" : "Each one added shows as a chip with ✕; ✕ removes it; the cursor stays in the field",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-066, redix-api #164",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Sunday 22-11-2026 At 05:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Sunday 22-11-2026 At 05:30:00 [Asia/Riyadh]",
+  "module" : "UC-066",
+  "testData" : "",
+  "preConditions" : ""
+}
