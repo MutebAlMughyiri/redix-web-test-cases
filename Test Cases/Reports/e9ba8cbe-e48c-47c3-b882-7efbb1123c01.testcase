@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Issue report 1, asked first, lists report 1 and offers report 2",
+  "expectedResult" : "Report 1 is listed with today; the button says Issue report 2",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-053, redix-api #171",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 04:10:00 [Asia/Riyadh]",
+  "module" : "UC-053",
+  "testData" : "",
+  "preConditions" : ""
+}
