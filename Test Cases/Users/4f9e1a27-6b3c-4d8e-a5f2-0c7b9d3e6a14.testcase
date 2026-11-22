@@ -1,0 +1,17 @@
+{
+  "order" : "w",
+  "description" : "A request rejected with its reason is said rejected; one approved changes the permissions",
+  "expectedResult" : "Permission requests says each decision; My permissions shows the rejection reason, then the permission taken",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "redix-api #112, #173",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 10:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 10:30:00 [Asia/Riyadh]",
+  "module" : "UC-008",
+  "testData" : "",
+  "preConditions" : ""
+}

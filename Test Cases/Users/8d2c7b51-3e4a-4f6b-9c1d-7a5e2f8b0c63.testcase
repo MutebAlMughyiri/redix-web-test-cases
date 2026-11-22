@@ -1,0 +1,17 @@
+{
+  "order" : "v",
+  "description" : "Ask for permissions sends a request, My permissions says it waits, and Withdraw takes it back",
+  "expectedResult" : "My permissions says the request was sent and waits with what it asks; after Withdraw it says it was withdrawn and shows no request",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "redix-api #112, #173",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 10:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 10:30:00 [Asia/Riyadh]",
+  "module" : "UC-008",
+  "testData" : "",
+  "preConditions" : ""
+}
