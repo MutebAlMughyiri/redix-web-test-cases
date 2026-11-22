@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Settings keeps the appearance chosen and how many entries the home lists",
+  "expectedResult" : "Dark is chosen and the page draws dark; the count chosen stays selected",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "redix-api #175 D1",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 19:45:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 19:45:00 [Asia/Riyadh]",
+  "module" : "Settings",
+  "testData" : "",
+  "preConditions" : ""
+}
