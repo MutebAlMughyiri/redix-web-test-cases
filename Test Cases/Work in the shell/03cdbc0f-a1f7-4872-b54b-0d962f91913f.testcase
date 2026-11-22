@@ -1,7 +1,7 @@
 {
   "order" : "m",
-  "description" : "Settings opens in a tab, and no item of the side menu stands gray",
-  "expectedResult" : "Settings is the tab in front; every item of the side menu opens its tab, none gray",
+  "description" : "Settings opens in a tab, and the items not built stand gray",
+  "expectedResult" : "Settings is the tab in front; More info, My permissions and Documents stand gray until built, Documents for good",
   "status" : "PENDING",
   "steps" : [],
   "priority" : "HIGH",
@@ -10,7 +10,7 @@
   "createdBy" : "Owner",
   "updatedBy" : "Owner",
   "createdAt" : "Saturday 21-11-2026 At 03:00:00 [Asia/Riyadh]",
-  "updatedAt" : "Monday 23-11-2026 At 05:55:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 06:50:00 [Asia/Riyadh]",
   "module" : "#161",
   "testData" : "",
   "preConditions" : ""

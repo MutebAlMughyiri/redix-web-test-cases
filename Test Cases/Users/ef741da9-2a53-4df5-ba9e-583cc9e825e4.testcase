@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "A person disabled, asked first, is said disabled, and Enable brings them back",
+  "expectedResult" : "The row says disabled; Enable offers Disable again",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-007, UC-008, redix-api #173",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 06:55:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 06:55:00 [Asia/Riyadh]",
+  "module" : "UC-008",
+  "testData" : "",
+  "preConditions" : ""
+}
