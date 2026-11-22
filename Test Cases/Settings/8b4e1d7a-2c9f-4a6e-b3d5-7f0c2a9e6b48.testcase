@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "My email asks for the code sent to the new email, and a wrong code is refused with the app's words",
+  "expectedResult" : "The code's step names the new email; a wrong code says the code is wrong or expired",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-010, redix-api #175",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 20:15:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 20:15:00 [Asia/Riyadh]",
+  "module" : "UC-010",
+  "testData" : "",
+  "preConditions" : ""
+}
