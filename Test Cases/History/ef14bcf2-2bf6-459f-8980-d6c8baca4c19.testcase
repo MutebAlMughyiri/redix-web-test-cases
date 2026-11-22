@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "The project history lists the entries approved, and narrows to a kind",
+  "expectedResult" : "Payment 1 shows; the accounts kind lists the Bank account being added",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-069, redix-api #172",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 05:50:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 05:50:00 [Asia/Riyadh]",
+  "module" : "UC-069",
+  "testData" : "",
+  "preConditions" : ""
+}
