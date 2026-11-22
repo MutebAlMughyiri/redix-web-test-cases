@@ -1,0 +1,17 @@
+{
+  "order" : "v",
+  "description" : "The details panel follows the tab in front: each tab brings back what it selected",
+  "expectedResult" : "Back on Entries the panel shows the entry selected there; back on Accounts, the account selected there",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-028, redix-api #76 row 293",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 06:20:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 06:20:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}
