@@ -1,0 +1,17 @@
+{
+  "order" : "x",
+  "description" : "The project's only manager of users cannot disable themselves, and the app's words say why",
+  "expectedResult" : "Disable on the manager's own panel, confirmed, is refused with the app's words (users.lastManager), and the manager is not said disabled",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-007, BR-29, redix-api findings row 298",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 09:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 09:00:00 [Asia/Riyadh]",
+  "module" : "UC-008",
+  "testData" : "",
+  "preConditions" : ""
+}
