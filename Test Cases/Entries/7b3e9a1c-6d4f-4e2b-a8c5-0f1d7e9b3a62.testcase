@@ -1,0 +1,17 @@
+{
+  "order" : "w",
+  "description" : "Add entry keeps the invoice chosen, through a change of table, and the entry's panel hands it over",
+  "expectedResult" : "The invoice chosen before the table stays chosen; the sent entry's panel names it and hands it over",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-022, redix-api #175 D3",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Tuesday 24-11-2026 At 02:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Tuesday 24-11-2026 At 02:00:00 [Asia/Riyadh]",
+  "module" : "UC-022",
+  "testData" : "",
+  "preConditions" : ""
+}
