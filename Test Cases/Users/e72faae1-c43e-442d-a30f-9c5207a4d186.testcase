@@ -1,0 +1,17 @@
+{
+  "order" : "s",
+  "description" : "New user adds the person with the permissions ticked, and the details panel shows them",
+  "expectedResult" : "The panel shows the new person with two permissions; Users lists them",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-007, UC-008, redix-api #173",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 08:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 08:30:00 [Asia/Riyadh]",
+  "module" : "UC-008",
+  "testData" : "",
+  "preConditions" : ""
+}

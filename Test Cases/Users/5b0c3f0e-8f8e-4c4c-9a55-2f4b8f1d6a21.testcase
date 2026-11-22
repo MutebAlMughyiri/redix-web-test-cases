@@ -1,0 +1,17 @@
+{
+  "order" : "u",
+  "description" : "Each tick on a person's Permissions is kept at once, and their panel counts it",
+  "expectedResult" : "Ticking Record entries makes two permissions, unticking it one; the tick stays as kept after the page is opened again",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-007, UC-008, redix-api #173",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 09:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 09:30:00 [Asia/Riyadh]",
+  "module" : "UC-008",
+  "testData" : "",
+  "preConditions" : ""
+}
