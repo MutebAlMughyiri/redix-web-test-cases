@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "Remove is asked first, and Add document without a file says to choose one",
+  "expectedResult" : "Remove asks before it removes and the document leaves the list; a form with no file says to choose the document's file first",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-064, redix-api #175 D3",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 23:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 23:30:00 [Asia/Riyadh]",
+  "module" : "UC-064",
+  "testData" : "",
+  "preConditions" : ""
+}

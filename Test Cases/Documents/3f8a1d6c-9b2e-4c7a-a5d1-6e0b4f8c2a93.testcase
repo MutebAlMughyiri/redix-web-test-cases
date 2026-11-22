@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Add document keeps a picture under its name and group, shows it, and hands its file over",
+  "expectedResult" : "The new document's panel says it was saved and shows the picture; Documents lists it under its group; Download hands over the file under its own name",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-064, redix-api #175 D3",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 23:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 23:30:00 [Asia/Riyadh]",
+  "module" : "UC-064",
+  "testData" : "",
+  "preConditions" : ""
+}
