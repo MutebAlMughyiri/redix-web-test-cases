@@ -1,7 +1,7 @@
 {
   "order" : "m",
   "description" : "Settings opens in a tab, and the items not built stand gray",
-  "expectedResult" : "Settings is the tab in front; More info and Documents stand gray until built, Documents for good",
+  "expectedResult" : "Settings is the tab in front; Documents stands gray, for good until the owner decides where the files go",
   "status" : "PENDING",
   "steps" : [],
   "priority" : "HIGH",

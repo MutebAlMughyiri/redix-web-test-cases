@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "More info's Rename, Add unit and the description are kept as the app's dialogs",
+  "expectedResult" : "The new name shows in More info and the side menu; the unit is listed; the description is said saved",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-006, redix-api #175",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 18:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 18:30:00 [Asia/Riyadh]",
+  "module" : "UC-006",
+  "testData" : "",
+  "preConditions" : ""
+}
