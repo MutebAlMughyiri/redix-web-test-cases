@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "A tab's buttons stand at its head's far end, away from its title",
+  "expectedResult" : "In Arabic, Entries' buttons stand at the head's left end, away from its title on the right",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "findings row 309",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 08:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 08:00:00 [Asia/Riyadh]",
+  "module" : "UC-049",
+  "testData" : "",
+  "preConditions" : ""
+}

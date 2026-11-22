@@ -1,0 +1,17 @@
+{
+  "order" : "x",
+  "description" : "Alt+W closes the tab in front",
+  "expectedResult" : "With Settings in front, Alt+W closes it and the tab left comes to the front",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "findings row 308",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 08:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 08:00:00 [Asia/Riyadh]",
+  "module" : "#161",
+  "testData" : "",
+  "preConditions" : ""
+}

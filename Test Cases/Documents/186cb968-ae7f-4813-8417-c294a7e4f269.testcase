@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "A PDF document shows in a small frame in its panel, and its file is handed over",
+  "expectedResult" : "The PDF document's panel shows the file in a frame under its name, and Download hands it over under its own name",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-064, redix-api findings row 305",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "module" : "UC-064",
+  "testData" : "",
+  "preConditions" : ""
+}

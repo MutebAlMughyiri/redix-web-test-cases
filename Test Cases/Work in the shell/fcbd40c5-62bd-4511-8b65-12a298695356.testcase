@@ -1,0 +1,17 @@
+{
+  "order" : "v",
+  "description" : "My account in the status bar opens My history, Shared settings and Sign out",
+  "expectedResult" : "The top bar holds no Sign out; the person's name at the status bar's end opens My history, Shared settings and Sign out; My history opens its tab and closes the menu; Sign out signs out",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "findings row 306",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 08:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 08:00:00 [Asia/Riyadh]",
+  "module" : "#161",
+  "testData" : "",
+  "preConditions" : ""
+}

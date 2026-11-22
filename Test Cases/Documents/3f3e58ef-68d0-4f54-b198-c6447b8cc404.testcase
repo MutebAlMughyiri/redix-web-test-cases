@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "The details panel's line drags it wider and narrower within its limits, and a reload keeps its width",
+  "expectedResult" : "Dragging the panel's line toward the content widens it, no wider than 560 px and no narrower than 240; after a reload the panel opens at the width it was left",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "redix-api #161 R10, findings row 304",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "module" : "UC-064",
+  "testData" : "",
+  "preConditions" : ""
+}

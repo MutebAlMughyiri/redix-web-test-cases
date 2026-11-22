@@ -1,0 +1,17 @@
+{
+  "order" : "w",
+  "description" : "More folds the side menu's items used now and then until it is clicked, and opens with them when one is in front",
+  "expectedResult" : "Documents is hidden until More is clicked; My permissions opens its tab; after a reload More stays open with My permissions marked",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "findings row 307",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 08:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 08:00:00 [Asia/Riyadh]",
+  "module" : "#161",
+  "testData" : "",
+  "preConditions" : ""
+}
