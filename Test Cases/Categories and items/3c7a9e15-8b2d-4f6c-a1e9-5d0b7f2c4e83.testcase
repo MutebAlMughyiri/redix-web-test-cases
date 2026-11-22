@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "New subgroup, Rename, a table moved with Alt+Up, and Delete asked first, on an item's Tables",
+  "expectedResult" : "The subgroup shows renamed, keeps the first place it was moved to, and is gone once its Delete is confirmed",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-012, redix-api #174",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 13:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 13:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}
