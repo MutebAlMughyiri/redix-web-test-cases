@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "New column on this item, Edit, and Delete asked first, as the app's dialogs",
+  "expectedResult" : "The column shows on the item's Columns, renamed after Edit, and gone once its Delete is confirmed",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-013, redix-api #174",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 12:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 12:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}

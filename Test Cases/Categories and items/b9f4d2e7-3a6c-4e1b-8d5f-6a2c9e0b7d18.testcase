@@ -1,0 +1,17 @@
+{
+  "order" : "p",
+  "description" : "A template's new column asks whether it reaches every item",
+  "expectedResult" : "Applied to all items, the new column shows on the item's own Columns",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-013, redix-api #174",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 12:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 12:30:00 [Asia/Riyadh]",
+  "module" : "UC-013",
+  "testData" : "",
+  "preConditions" : ""
+}
