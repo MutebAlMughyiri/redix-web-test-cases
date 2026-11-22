@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "New payment method, Rename, Disable and Enable, as the app's dialog and menu",
+  "expectedResult" : "The method shows paying from the ticked account, renamed, said disabled, then active again",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-014, redix-api #174",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 18:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 18:00:00 [Asia/Riyadh]",
+  "module" : "UC-014",
+  "testData" : "",
+  "preConditions" : ""
+}
