@@ -1,0 +1,17 @@
+{
+  "order" : "o",
+  "description" : "Report 1, once issued, opens with its expenses against the previous report",
+  "expectedResult" : "Report 1 shows its number and its expenses difference",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-053, redix-api #171",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 04:40:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 04:40:00 [Asia/Riyadh]",
+  "module" : "UC-053",
+  "testData" : "",
+  "preConditions" : ""
+}
