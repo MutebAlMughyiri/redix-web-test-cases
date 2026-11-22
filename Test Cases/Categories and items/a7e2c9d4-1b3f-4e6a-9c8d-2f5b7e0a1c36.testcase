@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "New category, Add item and Rename work as the app's dialogs",
+  "expectedResult" : "The category shows with its item and the item its type; renamed, the panel shows the new name",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-012, redix-api #174",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 11:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 11:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}

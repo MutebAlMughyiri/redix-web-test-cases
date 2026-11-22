@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "An item moved with Alt+Down, or dragged, keeps its new place",
+  "expectedResult" : "The two items swap places and keep them when Categories and items opens again",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-012, redix-api #174",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 11:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 11:30:00 [Asia/Riyadh]",
+  "module" : "UC-012",
+  "testData" : "",
+  "preConditions" : ""
+}
