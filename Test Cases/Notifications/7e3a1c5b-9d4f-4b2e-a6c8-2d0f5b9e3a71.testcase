@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "A project's approval shows in Notifications, counted in the top bar, and opening it brings the project's Home in front",
+  "expectedResult" : "The top bar counts one unread; Notifications lists the approval; opened, Home is in front and the count is gone",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-036, redix-api #175",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 19:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 19:00:00 [Asia/Riyadh]",
+  "module" : "UC-036",
+  "testData" : "",
+  "preConditions" : ""
+}
