@@ -1,0 +1,17 @@
+{
+  "order" : "m",
+  "description" : "Load file lists every row a project file was refused for, and loads one it takes",
+  "expectedResult" : "A file naming an account the project lacks is refused, nothing saved, its row listed with why; a file it takes loads and says what it loaded",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-071, redix-api #175 D3",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Tuesday 24-11-2026 At 00:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Tuesday 24-11-2026 At 00:30:00 [Asia/Riyadh]",
+  "module" : "UC-071",
+  "testData" : "",
+  "preConditions" : ""
+}

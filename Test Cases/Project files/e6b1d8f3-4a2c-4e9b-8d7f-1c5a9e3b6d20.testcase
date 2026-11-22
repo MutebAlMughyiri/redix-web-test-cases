@@ -1,0 +1,17 @@
+{
+  "order" : "n",
+  "description" : "Archive hands the project's file over, and Retrieve previews it, then retrieves it",
+  "expectedResult" : "Archive hands over a .json; choosing it in Retrieve shows who took it and each part now and after; Retrieve says the project was retrieved with its entries",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-073, redix-api #175 D3",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Tuesday 24-11-2026 At 00:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Tuesday 24-11-2026 At 00:30:00 [Asia/Riyadh]",
+  "module" : "UC-073",
+  "testData" : "",
+  "preConditions" : ""
+}
