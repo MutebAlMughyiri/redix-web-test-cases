@@ -1,7 +1,7 @@
 {
   "order" : "m",
-  "description" : "Partners lists the capital and a partner with no login, whose panel says no movements yet",
-  "expectedResult" : "The total reads 0.00; Partner A shows with no login; its panel says there are no movements",
+  "description" : "Partners lists the capital and a partner with no login, whose panel lists no movements",
+  "expectedResult" : "The partner's panel shows the name and balance and lists no movements: they are in Expenses and Revenue (findings row 330)",
   "status" : "PENDING",
   "steps" : [],
   "priority" : "HIGH",
@@ -10,7 +10,7 @@
   "createdBy" : "Owner",
   "updatedBy" : "Owner",
   "createdAt" : "Sunday 22-11-2026 At 22:50:00 [Asia/Riyadh]",
-  "updatedAt" : "Sunday 22-11-2026 At 22:50:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 19:00:00 [Asia/Riyadh]",
   "module" : "UC-016",
   "testData" : "",
   "preConditions" : ""
