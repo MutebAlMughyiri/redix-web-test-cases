@@ -1,0 +1,17 @@
+{
+  "order" : "y",
+  "description" : "The details panel follows the selected row until it is closed, then stays closed until a row is chosen again",
+  "expectedResult" : "A row's panel stays through opening the search; once closed with ✕, closing the search keeps it closed; clicking a row opens it again",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "redix-api findings rows 293, 325",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 16:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 16:00:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}
