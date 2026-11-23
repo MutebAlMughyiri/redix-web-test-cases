@@ -1,0 +1,17 @@
+{
+  "order" : "x",
+  "description" : "The search is folded until «بحث» or / opens it, typing keeps it open, and closing it clears its filter",
+  "expectedResult" : "Entries opens with no search showing; / opens it with the cursor in the field; typing narrows the list and the search stays; «بحث» folds it and the whole list comes back",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "redix-api #180",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 15:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 15:00:00 [Asia/Riyadh]",
+  "module" : "UC-028",
+  "testData" : "",
+  "preConditions" : ""
+}

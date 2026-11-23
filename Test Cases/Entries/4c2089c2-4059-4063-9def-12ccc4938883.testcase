@@ -1,7 +1,7 @@
 {
   "order" : "p",
   "description" : "The search finds an entry by its amount",
-  "expectedResult" : "Typing an amount leaves the entries of that amount",
+  "expectedResult" : "With the search opened by «بحث», typing an amount finds the one entry with it",
   "status" : "PENDING",
   "steps" : [],
   "priority" : "MEDIUM",
@@ -10,7 +10,7 @@
   "createdBy" : "Owner",
   "updatedBy" : "Owner",
   "createdAt" : "Sunday 22-11-2026 At 06:00:00 [Asia/Riyadh]",
-  "updatedAt" : "Sunday 22-11-2026 At 06:00:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 15:00:00 [Asia/Riyadh]",
   "module" : "UC-028",
   "testData" : "",
   "preConditions" : ""
