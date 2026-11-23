@@ -1,0 +1,17 @@
+{
+  "order" : "z",
+  "description" : "Quick add adds a missing supplier from Add entry and picks it, and a VAT number another supplier holds offers that one",
+  "expectedResult" : "Quick add starts from what the search held, adds the supplier and picks it; a VAT number already held is refused naming its supplier, and Use the existing one picks that supplier",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "MEDIUM",
+  "reference" : "",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 15:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 15:30:00 [Asia/Riyadh]",
+  "module" : "UC-019",
+  "testData" : "",
+  "preConditions" : ""
+}
