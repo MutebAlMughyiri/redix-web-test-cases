@@ -1,0 +1,17 @@
+{
+  "order" : "q",
+  "description" : "Back on Expenses from an item's report, Expenses stays in front",
+  "expectedResult" : "Expenses shows its item reports; the item's report does not open again",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-050, findings row 326",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 15:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 15:30:00 [Asia/Riyadh]",
+  "module" : "UC-050",
+  "testData" : "",
+  "preConditions" : ""
+}

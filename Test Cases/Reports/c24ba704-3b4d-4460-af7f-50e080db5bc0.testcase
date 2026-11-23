@@ -1,0 +1,17 @@
+{
+  "order" : "r",
+  "description" : "An item's report, after a reload and Expenses, still shows its item",
+  "expectedResult" : "Excavation's report shows again, not \"تعذر تنفيذ ذلك.\"",
+  "status" : "PENDING",
+  "steps" : [],
+  "priority" : "HIGH",
+  "reference" : "UC-050, findings row 327",
+  "groups" : [],
+  "createdBy" : "Owner",
+  "updatedBy" : "Owner",
+  "createdAt" : "Monday 23-11-2026 At 15:30:00 [Asia/Riyadh]",
+  "updatedAt" : "Monday 23-11-2026 At 15:30:00 [Asia/Riyadh]",
+  "module" : "UC-050",
+  "testData" : "",
+  "preConditions" : ""
+}
